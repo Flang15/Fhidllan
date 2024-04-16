@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QuackyDucky15
+- 👋 Hi, I’m Flang15
 - 👀 I’m interested in ... Software Development and Data Science
 - 🌱 I’m currently learning ... Python Programming
 - 💞️ I’m looking to collaborate on ...
