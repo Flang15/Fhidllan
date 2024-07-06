@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Flang15
-- 👀 I’m interested in ... Software Development and Data Science
+- 👀 I’m interested in ... Computer Engineering and Data Science
 - 🌱 I’m currently learning ... Python Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
